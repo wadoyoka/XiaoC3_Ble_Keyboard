@@ -1,0 +1,2 @@
+# XiaoC3_BLE_KEYBOARD
+本リポジトリは、XiaoESP32 C3を用いて、Bluetoothキーボードとして使えるようになるプログラムです。
